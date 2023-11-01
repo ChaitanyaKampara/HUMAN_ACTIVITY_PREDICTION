@@ -7,7 +7,7 @@
 
 * The goal of the project is to use this data to train a machine learning model that can accurately classify the activities performed by the study participants. To do this, we will need to pre-process the data to extract features that are relevant for distinguishing between the different activities. We can then use these features to train a machine learning model, such as a decision tree, random forest, support vector machine, or neural network. Finally, we can evaluate the performance of our model on a separate test dataset to see how well it generalizes to new examples of activities.
   
-# Data pre-processing:
+## Data pre-processing:
 In Data pre-processing we’ll perform various activities like:
 
 * Checking Duplicates

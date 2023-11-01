@@ -14,10 +14,11 @@ In Data pre-processing we’ll perform various activities like:
 * Checking and removing NULL/missing values
 * Checking for class imbalance
 
-# Class Imbalance 
+## Class Imbalance 
+
 No imbalance in the data
 
-# EDA
+## EDA
 
 EDA might involve visualizing the data to see how the different features vary across different activities, or computing summary statistics such as mean and standard deviation to understand the distribution of the data. We can start by visualizing the data for each feature separately, such as by creating histograms or box plots. This can help us understand the distribution of the data and identify any outliers or anomalies. We could also create scatter plots to see how the different features are correlated with each other, or create time series plots to see how the data varies over time.
 

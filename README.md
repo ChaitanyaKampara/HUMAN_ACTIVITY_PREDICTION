@@ -10,7 +10,7 @@
 ## Data pre-processing:
 In Data pre-processing we’ll perform various activities like:
 
-* Checking Duplicates
+* Checking Duplicates 
 * Checking and removing NULL/missing values
 * Checking for class imbalance
 
